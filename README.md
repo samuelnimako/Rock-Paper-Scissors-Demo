@@ -13,13 +13,21 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play aga
 
 
 🚀 Features
+<br />
 	•	🎮 Play against the computer
+	<br />
 	•	🤖 Random computer choices
+	<br />
 	•	🧠 Instant win/lose logic
+	<br />
 	•	📊 Score tracking
+	
 
 🛠️ Tech Stack
+<br />
 	•	HTML
+	<br />
 	•	CSS
+	<br />
 	•	JavaScript
  | 
